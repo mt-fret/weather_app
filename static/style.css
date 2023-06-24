@@ -163,21 +163,3 @@ input {
 	border: none;
 	outline: none;
 }
-
-::-webkit-scrollbar {
-  width: 0.5vw;
-
-  background:-webkit-linear-gradient(0, blue 50%, white 100%);
-}
-
-::-webkit-scrollbar-track {
-  background:  linear-gradient(0deg, #836273 0%, #373252 100%);
-
-::-webkit-scrollbar-thumb {
-  background: #888;
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background: #555;
-}
-
